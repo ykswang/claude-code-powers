@@ -1,7 +1,7 @@
 ---
 name: "claude-code-mcp"
 displayName: "Claude Code MCP"
-description: "A wrapper for Claude Code CLI MCP service, enabling Kiro to use Claude Code for file operations, code editing, and command execution"
+description: "A wrapper for Claude Code CLI MCP service for file operations and code editing"
 keywords: ["claude", "code", "mcp", "cli", "edit", "file", "grep"]
 author: "closeli"
 ---
