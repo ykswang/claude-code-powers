@@ -1,6 +1,6 @@
 ---
-name: "claude-code-mcp"
-displayName: "Claude Code MCP"
+name: "claude-code"
+displayName: "Claude Code"
 description: "A wrapper for Claude Code CLI MCP service for file operations and code editing"
 keywords: ["claude", "code", "mcp", "cli", "edit", "file", "grep"]
 author: "closeli"

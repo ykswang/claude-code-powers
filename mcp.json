@@ -1,6 +1,6 @@
 {
   "mcpServers": {
-    "claude-code": {
+    "mcp": {
       "type": "stdio",
       "command": "npx",
       "args": ["-y", "closeli-claudecode-mcp@latest"]
